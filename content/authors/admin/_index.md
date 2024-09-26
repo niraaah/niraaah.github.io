@@ -38,6 +38,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/halin-rwx/
 
+
 interests:
   - Artificial Intelligence
   - Computational Linguistics
