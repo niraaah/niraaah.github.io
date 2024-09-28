@@ -10,7 +10,7 @@ en:
 
 # Uncomment the lines below to configure your website in a second language.
 zh:
-  languageCode: kr-kr
+  languageCode: kr
   contentDir: content/zh
   title: '전하린'에 대하여
   params:
