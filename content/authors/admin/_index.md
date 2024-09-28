@@ -48,7 +48,7 @@ education:
   - area: 컴퓨터공학 학사 Bachelor of Computer Science (Current Major)
     institution: 전북대학교 Jeonbuk National University, Republic of Korea
     date_start: 2023-03-02
-    date_end: now
+    date_end: null
     summary: |
       GPA: 3.87/4.5
 
