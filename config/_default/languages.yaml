@@ -9,7 +9,7 @@ en:
   contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-zh:
+ko:
   languageCode: ko
   contentDir: content/ko
   title: '전하린'에 대하여
