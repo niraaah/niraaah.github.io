@@ -10,13 +10,13 @@ en:
 
 # Uncomment the lines below to configure your website in a second language.
 zh:
-  languageCode: kr
+  languageCode: ko
   contentDir: content/zh
   title: '전하린'에 대하여
   params:
     description: Site description in English...
   menu:
     main:
-      - name: 传
+      - name: 전하린
         url: '#about'
         weight: 1
