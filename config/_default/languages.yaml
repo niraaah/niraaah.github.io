@@ -6,17 +6,17 @@
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  contentDir: niraaah.github.io/content/en
+  contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
 ko:
   languageCode: ko
-  contentDir: niraaah.github.io/content/ko
+  contentDir: content/ko
   title: 전하린에 대하여
   params:
     description: Site description in English...
   menu:
     main:
       - name: 전하린
-        url: "#about"
+        url: '#about'
         weight: 1
