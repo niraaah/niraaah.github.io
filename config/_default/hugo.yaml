@@ -13,8 +13,8 @@ baseURL: 'https://halin.rwx.com/'
 ############################
 
 defaultContentLanguage: ko
-hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
+hasCJKLanguage: true
+defaultContentLanguageInSubdir: true
 removePathAccents: true
 
 ############################
