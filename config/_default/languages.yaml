@@ -3,38 +3,38 @@
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
 # Default language
-en:
-  languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  contentDir: content/en
-
-# Uncomment the lines below to configure your website in a second language.
 ko:
   languageCode: ko
+  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/ko
-  title: 전하린에 대하여
+
+# Uncomment the lines below to configure your website in a second language.
+en:
+  languageCode: en-us
+  contentDir: content/en
+  title: About Jeon Halin
   params:
-    description: 안녕하세요. 전하린입니다.
+    description: About Jeon Halin
   menu:
     main:
-      - name: 자기소개
-        url: '#about'
-        weight: 1
-      - name: 연구
+      - name: Bio
+        url: /
+        weight: 10
+      - name: Papers
         url: /#papers
         weight: 11
-      - name: 발표
+      - name: Talks
         url: /#talks
         weight: 12
-      - name: 뉴스
+      - name: News
         url: /#news
         weight: 13
-      - name: 경험
+      - name: Experience
         url: experience/
         weight: 20
-      - name: 프로젝트
+      - name: Projects
         url: projects/
         weight: 30
-      - name: 강의
+      - name: Teaching
         url: teaching/
         weight: 40
