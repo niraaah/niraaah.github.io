@@ -20,3 +20,7 @@ ko:
       - name: 자기소개
         url: '#about'
         weight: 1
+    sub:
+      - name: 페이퍼
+        url: '#papers'
+        weight: 1
