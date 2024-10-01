@@ -20,7 +20,21 @@ ko:
       - name: 자기소개
         url: '#about'
         weight: 1
-    sub:
-      - name: 페이퍼
-        url: '#papers'
-        weight: 1
+      - name: 연구
+        url: /#papers
+        weight: 11
+      - name: 발표
+        url: /#talks
+        weight: 12
+      - name: 뉴스
+        url: /#news
+        weight: 13
+      - name: 경험
+        url: experience/
+        weight: 20
+      - name: 프로젝트
+        url: projects/
+        weight: 30
+      - name: 강의
+        url: teaching/
+        weight: 40
