@@ -17,6 +17,6 @@ ko:
     description: 안녕하세요. 전하린입니다.
   menu:
     main:
-      - name: 전하린
+      - name: 자기소개
         url: '#about'
         weight: 1
