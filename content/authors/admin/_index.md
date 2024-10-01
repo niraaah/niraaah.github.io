@@ -112,25 +112,25 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: WeightTraining
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Violin
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Walking
         description: ''
         percent: 80
         icon: camera
 
 languages:
-  - name: English
+  - name: Korean
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: English
+    percent: 70
+  - name: Japanese
     percent: 25
 
 # Awards.
