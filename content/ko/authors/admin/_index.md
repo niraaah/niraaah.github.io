@@ -44,8 +44,9 @@ interests:
   - Computational Linguistics
   - Information Retrieval
 
+
 education:
-  - area: 컴퓨터공학 학사 Bachelor of Computer Science (Current Major)
+  - area: 컴퓨터공학 학사 Bachelor of Computer Science
     institution: 전북대학교 Jeonbuk National University, Republic of Korea
     date_start: 2023-03-02
     date_end: 2026-08-22
@@ -54,19 +55,20 @@ education:
 
       Courses included:
       - 컴퓨터구조 Computer Architecture
-      - 운영체제 Operating System (OS)
-      - 데이터통신 Data Communications / 네트워크 Network
-      - 알고리즘 Algorithm / 자료구조 Dat Structure
+      - 운영체제 Operating System OS
+      - 데이터통신 Data Communications, 네트워크 Network
+      - 알고리즘 Algorithm, 자료구조 Dat Structure
       - 데이터베이스 Database
-  - area: 분자생물학 학사 (전과함) Bachelor of Molecular Biology (Previous Major)
+  - area: 분자생물학 학사 (전과함) Bachelor of Molecular Biology
     institution: 전북대학교 Jeonbuk National University, Republic of Korea
     date_start: 2019-03-02
-    date_end: 2023-03-01 (Changed Major)
+    date_end: 2023-03-01 Changed Major
     summary: |
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -144,7 +146,7 @@ awards:
     awarder: Coursera
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      .
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
@@ -162,7 +164,7 @@ awards:
     awarder: datacamp
     icon: datacamp
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      .
 ---
 
 ## About Me
