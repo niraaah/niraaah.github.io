@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: 학부생
+role: University Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: 전북대학교 컴퓨터인공지능학부
+  - name: Computer Science, Jeonbuk National University, Republic of Korea
     url: https://csai.jbnu.ac.kr/csai/index.do
 
 # Social network links
@@ -45,21 +45,21 @@ interests:
   - Information Retrieval
 
 education:
-  - area: 컴퓨터공학 학사 Bachelor of Computer Science
-    institution: 전북대학교 Jeonbuk National University, Republic of Korea
+  - area: Bachelor of Computer Science
+    institution: Jeonbuk National University, Republic of Korea
     date_start: 2023-03-02
     date_end: 2026-08-22
     summary: |
       GPA: 3.87/4.5
 
       Courses included:
-      - 컴퓨터구조 Computer Architecture
-      - 운영체제 Operating System OS
-      - 데이터통신 Data Communications, 네트워크 Network
-      - 알고리즘 Algorithm, 자료구조 Dat Structure
-      - 데이터베이스 Database
-  - area: 분자생물학 학사 (전과함) Bachelor of Molecular Biology
-    institution: 전북대학교 Jeonbuk National University, Republic of Korea
+      - Computer Architecture
+      - Operating System OS
+      - Data Communications, Network
+      - Algorithm, Dat Structure
+      - Database
+  - area: Bachelor of Molecular Biology
+    institution: Jeonbuk National University, Republic of Korea
     date_start: 2019-03-02
     date_end: 2023-03-01
     summary: |

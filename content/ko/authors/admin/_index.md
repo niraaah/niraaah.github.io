@@ -46,21 +46,21 @@ interests:
 
 
 education:
-  - area: 컴퓨터공학 학사 Bachelor of Computer Science
-    institution: 전북대학교 Jeonbuk National University, Republic of Korea
+  - area: 컴퓨터공학 학사
+    institution: 전북대학교
     date_start: 2023-03-02
     date_end: 2026-08-22
     summary: |
       GPA: 3.87/4.5
 
-      Courses included:
-      - 컴퓨터구조 Computer Architecture
-      - 운영체제 Operating System OS
-      - 데이터통신 Data Communications, 네트워크 Network
-      - 알고리즘 Algorithm, 자료구조 Dat Structure
-      - 데이터베이스 Database
-  - area: 분자생물학 학사 (전과함) Bachelor of Molecular Biology
-    institution: 전북대학교 Jeonbuk National University, Republic of Korea
+      하위 강좌 수강 포함:
+      - 컴퓨터구조
+      - 운영체제
+      - 데이터통신, 네트워크
+      - 알고리즘, 자료구조
+      - 데이터베이스
+  - area: 분자생물학 학사 (전과함)
+    institution: 전북대학교
     date_start: 2019-03-02
     date_end: 2023-03-01
     summary: |
