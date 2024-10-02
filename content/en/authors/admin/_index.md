@@ -24,7 +24,7 @@ role: University Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Computer Science, Jeonbuk National University, Republic of Korea
+  - name: Computer Science, Jeonbuk National University
     url: https://csai.jbnu.ac.kr/csai/index.do
 
 # Social network links
