@@ -1,25 +1,3 @@
-name: Deploy website to GitHub Pages
-
-env:
-  WC_HUGO_VERSION: '0.135.0'
-
-on:
-  # Trigger the workflow every time you push to the `main` branch
-  push:
-    branches: ["main"]
-  # Allows you to run this workflow manually from the Actions tab on GitHub.
-  workflow_dispatch:
-
-# Provide permission to clone the repo and deploy it to GitHub Pages
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
-
 jobs:
   # Build website
   build:
@@ -29,7 +7,6 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v4
       with:
-          # Fetch history for Hugo's .GitInfo and .Lastmod
         fetch-depth: 0
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v3
@@ -51,6 +28,8 @@ jobs:
       run: |
         echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
         hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+    - name: Verify Hugo build output
+      run: ls -la ./public
     - name: Generate Pagefind search index
       run: npx pagefind --site "public"
     - name: Upload artifact
