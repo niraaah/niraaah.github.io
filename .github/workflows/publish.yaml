@@ -68,6 +68,9 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
-    - name: Deploy to GitHub Pages
-      id: deployment
-      uses: actions/deploy-pages@v3
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v3
+        with:
+          artifacts: github-pages  # 명시적으로 아티팩트 이름 지정
+          debug: true  # 디버그 모드 활성화
