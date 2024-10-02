@@ -62,7 +62,7 @@ education:
   - area: 분자생물학 학사 (전과함) Bachelor of Molecular Biology
     institution: 전북대학교 Jeonbuk National University, Republic of Korea
     date_start: 2019-03-02
-    date_end: 2023-03-01 Changed Major
+    date_end: 2023-03-01
     summary: |
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
