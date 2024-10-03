@@ -40,13 +40,13 @@ profiles:
 
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 인간-컴퓨터 상호작용 (HCI)
+  - 인공지능 (AI)
+  - 정보보안
 
 
 education:
-  - area: 컴퓨터공학 학사
+  - area: 컴퓨터공학 학사 (현재 전공)
     institution: 전북대학교
     date_start: 2023-03-02
     date_end: 2026-08-22
@@ -59,7 +59,7 @@ education:
       - 데이터통신, 네트워크
       - 알고리즘, 자료구조
       - 데이터베이스
-  - area: 분자생물학 학사 (전과함)
+  - area: 분자생물학 학사 (이전 전공)
     institution: 전북대학교
     date_start: 2019-03-02
     date_end: 2023-03-01

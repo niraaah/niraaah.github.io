@@ -40,12 +40,12 @@ profiles:
 
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Human-Computer Interaction (HCI)
+  - Artificial Intelligence (AI)
+  - Information Security
 
 education:
-  - area: Bachelor of Computer Science
+  - area: Bachelor of Computer Science (Current Major)
     institution: Jeonbuk National University, Republic of Korea
     date_start: 2023-03-02
     date_end: 2026-08-22
@@ -58,7 +58,7 @@ education:
       - Data Communications, Network
       - Algorithm, Dat Structure
       - Database
-  - area: Bachelor of Molecular Biology
+  - area: Bachelor of Molecular Biology (Previous Major)
     institution: Jeonbuk National University, Republic of Korea
     date_start: 2019-03-02
     date_end: 2023-03-01
