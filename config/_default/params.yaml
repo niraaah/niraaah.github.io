@@ -8,18 +8,14 @@ appearance:
   mode: system
   color: emerald
 
+# SEO
 marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: '전북대학교'
-    description: '전북대학교 컴퓨터공학부 전하린 학생의 자기소개 페이지 입니다.'
+    org_name: ''
+    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
     twitter: 'GetResearchDev'
-    keywords: '전북대, 전북대학교, 전하린, 컴퓨터공학부, 전북대 컴퓨터공학'
-    og:
-      title: '전북대 전하린 - 컴퓨터공학부 학생'
-      description: '전북대학교 컴퓨터공학부 전하린 학생의 자기소개 페이지 입니다.'
-      image: 'path_to_image'  # 이미지 경로를 여기에 추가하세요
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -29,7 +25,6 @@ marketing:
   verification:
     google: ''
     baidu: ''
-
 
 # Site header
 header:
@@ -54,7 +49,7 @@ footer:
 
 # Localization
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: '2024 Oct 6'
   time_format: '3:04 PM'
 
 # Site features
