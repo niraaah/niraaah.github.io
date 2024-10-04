@@ -14,7 +14,7 @@ en:
   contentDir: content/en
   title: About Jeon Halin
   params:
-    description: About Jeon Halin
+    description: This is a CV Website About Jeon Halin.
   menu:
     main:
       - name: Bio
