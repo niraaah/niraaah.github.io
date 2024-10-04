@@ -1,5 +1,4 @@
 ---
-
 title: "Jeon Halin"
 description: "This is the CV of Jeon Halin who is studying in Jeonbuk National University."
 keywords: "Jeonbuk University, Jeonbuk National University, Jeon Halin, Engineering, Jeonbuk University Computer Engineering"
