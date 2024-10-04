@@ -10,7 +10,7 @@ ko:
 
 # Uncomment the lines below to configure your website in a second language.
 en:
-  languageCode: en
+  languageCode: en-us
   contentDir: content/en
   title: About Jeon Halin
   params:
