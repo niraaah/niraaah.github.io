@@ -38,3 +38,11 @@ en:
       - name: Teaching
         url: teaching/
         weight: 40
+
+languages:
+  ko:
+    languageName: "Korean"
+    weight: 1
+  en:
+    languageName: "English"
+    weight: 2
