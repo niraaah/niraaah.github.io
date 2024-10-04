@@ -40,7 +40,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "전하린 Jeon Halin"
+      text: "Your Name"
 
 # Site footer
 footer:
@@ -54,7 +54,7 @@ footer:
 
 # Localization
 locale:
-  date_format: '2024 Oct 6'
+  date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
 
 # Site features
