@@ -15,7 +15,7 @@ baseURL: https://niraaah.github.io/
 defaultContentLanguage: ko
 hasCJKLanguage: true
 defaultContentLanguageInSubdir: true
-removePathAccents: false
+removePathAccents: true
 
 ############################
 ## ADVANCED
