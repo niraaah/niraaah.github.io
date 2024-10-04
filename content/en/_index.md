@@ -5,7 +5,7 @@ date: 2024-10-06
 type: landing
 
 design:
-  # Default section spacing
+  # Default section spacing.
   spacing: "6rem"
 
 sections:
