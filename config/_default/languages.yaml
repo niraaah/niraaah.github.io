@@ -7,15 +7,11 @@ ko:
   languageCode: ko
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/ko
-  languageName: "Korean"
-  weight: 1
 
 # Uncomment the lines below to configure your website in a second language.
 en:
   languageCode: en-us
   contentDir: content/en
-  languageName: "English"
-  weight: 2
   title: About Jeon Halin
   params:
     description: This is a CV Website About Jeon Halin
@@ -42,4 +38,3 @@ en:
       - name: Teaching
         url: teaching/
         weight: 40
-
