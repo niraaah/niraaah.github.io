@@ -1,6 +1,9 @@
 ---
-# Display name
-title: 전하린
+
+title: "Jeon Halin"
+description: "This is the CV of Jeon Halin who is studying in Jeonbuk National University."
+keywords: "Jeonbuk University, Jeonbuk National University, Jeon Halin, Engineering, Jeonbuk University Computer Engineering"
+image: "/images/avatar.jpg"  # 이미지 경로
 
 # Name pronunciation (optional)
 name_pronunciation: Jeon Halin

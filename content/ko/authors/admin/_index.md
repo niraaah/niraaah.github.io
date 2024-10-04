@@ -1,6 +1,8 @@
 ---
-# Display name
-title: 전하린
+title: "전북대 전하린"
+description: "전북대학교 컴퓨터공학부 전하린 학생의 자기소개 페이지 입니다."
+keywords: "전북대, 전북대학교, 전하린, 컴퓨터공학부, 전북대 컴퓨터공학"
+image: "/images/avatar.jpg"  # 이미지 경로
 
 # Name pronunciation (optional)
 name_pronunciation: Jeon Halin
