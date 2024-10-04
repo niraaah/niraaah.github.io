@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2024-10-06
+date: 2022-10-24
 type: landing
 
 design:
@@ -18,7 +18,6 @@ sections:
       button:
         text: Download CV
         url: uploads/resume.pdf
-        
     design:
       css_class: dark
       background:
