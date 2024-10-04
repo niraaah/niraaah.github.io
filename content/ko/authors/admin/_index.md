@@ -63,6 +63,11 @@ education:
     institution: 전북대학교
     date_start: 2019-03-02
     date_end: 2023-03-01
+    summary: |
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 work:
   - position: Director of Cloud Infrastructure
