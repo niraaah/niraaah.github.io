@@ -83,7 +83,7 @@ skills:
       - name: C/C++
         description: ''
         percent: 100
-        icon: c
+        icon: computer
       - name: SQL
         description: ''
         percent: 40
