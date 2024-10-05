@@ -95,11 +95,11 @@ skills:
     items:
       - name: 근력 운동
         description: ''
-        percent: 60
+        percent: 80
         icon: dumbbell
       - name: 바이올린 연주
         description: ''
-        percent: 100
+        percent: 50
         icon: violin
       - name: 걷기
         description: ''

@@ -94,11 +94,11 @@ skills:
     items:
       - name: Weight Training
         description: ''
-        percent: 60
+        percent: 80
         icon: dumbbell
       - name: Playing Violin
         description: ''
-        percent: 100
+        percent: 50
         icon: violin
       - name: Walking
         description: ''
