@@ -95,7 +95,7 @@ skills:
       - name: Weight Training
         description: ''
         percent: 60
-        icon: weight-training
+        icon: dumbbell
       - name: Playing Violin
         description: ''
         percent: 100

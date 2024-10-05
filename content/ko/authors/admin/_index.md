@@ -93,10 +93,10 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: 헬스 트레이닝
+      - name: 근력 운동
         description: ''
         percent: 60
-        icon: workout
+        icon: dumbbell
       - name: 바이올린 연주
         description: ''
         percent: 100
