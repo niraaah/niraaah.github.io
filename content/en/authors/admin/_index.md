@@ -115,18 +115,18 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: WeightTraining
+      - name: Weight Training
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Violin
+        icon: weight-training
+      - name: Playing Violin
         description: ''
         percent: 100
-        icon: cat
+        icon: violin
       - name: Walking
         description: ''
         percent: 80
-        icon: camera
+        icon: person-simple-walk
 
 languages:
   - name: Korean
