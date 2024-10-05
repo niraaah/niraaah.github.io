@@ -2,8 +2,6 @@
 #   Create a section for each of your site's languages.
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
-defaultContentLanguage: ko  # Make sure this matches the language code for Korean
-
 languages:
   ko:
     languageName: 한국어
