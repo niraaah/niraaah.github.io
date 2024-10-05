@@ -2,21 +2,50 @@
 #   Create a section for each of your site's languages.
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
+# Default language
+ko:
+  languageCode: ko
+  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  contentDir: ./content/ko
+  params: {}
+
+# Uncomment the lines below to configure your website in a second language.
+en:
+  languageCode: en-us
+  contentDir: ./content/en
+  
+  params:
+    title: About Jeon Halin
+    description: This is a CV Website About Jeon Halin
+  menu:
+    main:
+      - name: Bio
+        url: /
+        weight: 10
+      - name: Papers
+        url: /#papers
+        weight: 11
+      - name: Talks
+        url: /#talks
+        weight: 12
+      - name: News
+        url: /#news
+        weight: 13
+      - name: Experience
+        url: experience/
+        weight: 20
+      - name: Projects
+        url: projects/
+        weight: 30
+      - name: Teaching
+        url: teaching/
+        weight: 40
 
 
 languages:
   ko:
     languageName: 한국어
-    languageCode: ko
-    contentDir: ./content/ko
     weight: 1
-    menu:
-      main: ["ko-intro", "ko-papers", "ko-talks", "ko-news", "ko-experience", "ko-projects", "ko-teaching"]
-
   en:
     languageName: English
-    languageCode: en-us
-    contentDir: ./content/en
     weight: 2
-    menu:
-      main: ["en-bio", "en-papers", "en-talks", "en-news", "en-experience", "en-projects", "en-teaching"]

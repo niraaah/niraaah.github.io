@@ -17,20 +17,6 @@ hasCJKLanguage: true
 defaultContentLanguageInSubdir: true
 removePathAccents: true
 
-
-languages:
-  ko:
-    languageName: 한국어
-    languageCode: ko
-    contentDir: ./content/ko
-    weight: 1
-  en:
-    languageName: English
-    languageCode: en
-    contentDir: ./content/en
-    weight: 2
-
-
 ############################
 ## ADVANCED
 ############################

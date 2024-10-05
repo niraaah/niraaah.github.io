@@ -7,57 +7,21 @@ main:
   - name: 소개
     url: /
     weight: 10
-    identifier: ko-intro
   - name: 논문
     url: /#papers
     weight: 11
-    identifier: ko-papers
   - name: 강연
     url: /#talks
     weight: 12
-    identifier: ko-talks
   - name: 뉴스
     url: /#news
     weight: 13
-    identifier: ko-news
   - name: 경력
     url: experience/
     weight: 20
-    identifier: ko-experience
   - name: 프로젝트
     url: projects/
     weight: 30
-    identifier: ko-projects
   - name: 교육
     url: teaching/
     weight: 40
-    identifier: ko-teaching
-
-  - name: Bio
-    url: /
-    weight: 10
-    identifier: en-bio
-  - name: Papers
-    url: /#papers
-    weight: 11
-    identifier: en-papers
-  - name: Talks
-    url: /#talks
-    weight: 12
-    identifier: en-talks
-  - name: News
-    url: /#news
-    weight: 13
-    identifier: en-news
-  - name: Experience
-    url: experience/
-    weight: 20
-    identifier: en-experience
-  - name: Projects
-    url: projects/
-    weight: 30
-    identifier: en-projects
-  - name: Teaching
-    url: teaching/
-    weight: 40
-    identifier: en-teaching
