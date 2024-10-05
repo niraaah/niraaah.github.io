@@ -18,12 +18,3 @@ languages:
     weight: 2
     menu:
       main: ["en-bio", "en-papers", "en-talks", "en-news", "en-experience", "en-projects", "en-teaching"]
-
-
-languages:
-  ko:
-    languageName: 한국어
-    weight: 1
-  en:
-    languageName: English
-    weight: 2
