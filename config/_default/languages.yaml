@@ -2,44 +2,48 @@
 #   Create a section for each of your site's languages.
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
-languages:
 # Default language
+ko:
+  languageCode: ko
+  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  contentDir: content/ko
+
+# Uncomment the lines below to configure your website in a second language.
+en:
+  languageCode: en-us
+  contentDir: content/en
+  title: About Jeon Halin
+  params:
+    description: This is a CV Website About Jeon Halin
+  menu:
+    main:
+      - name: Bio
+        url: /
+        weight: 10
+      - name: Papers
+        url: /#papers
+        weight: 11
+      - name: Talks
+        url: /#talks
+        weight: 12
+      - name: News
+        url: /#news
+        weight: 13
+      - name: Experience
+        url: experience/
+        weight: 20
+      - name: Projects
+        url: projects/
+        weight: 30
+      - name: Teaching
+        url: teaching/
+        weight: 40
+
+
+languages:
   ko:
     languageName: 한국어
     weight: 1
-    languageCode: ko
-    # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-    contentDir: content/ko
-
-  # Uncomment the lines below to configure your website in a second language.
   en:
     languageName: English
     weight: 2
-    languageCode: en-us
-    contentDir: content/en
-    title: About Jeon Halin
-    params:
-      description: This is a CV Website About Jeon Halin
-    menu:
-      main:
-        - name: Bio
-          url: /
-          weight: 10
-        - name: Papers
-          url: /#papers
-          weight: 11
-        - name: Talks
-          url: /#talks
-          weight: 12
-        - name: News
-          url: /#news
-          weight: 13
-        - name: Experience
-          url: experience/
-          weight: 20
-        - name: Projects
-          url: projects/
-          weight: 30
-        - name: Teaching
-          url: teaching/
-          weight: 40
