@@ -26,7 +26,7 @@ languages:
     weight: 1
   en:
     languageName: English
-    languageCode: en-us
+    languageCode: en
     contentDir: ./content/en
     weight: 2
 
