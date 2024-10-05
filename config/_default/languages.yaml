@@ -7,15 +7,40 @@ ko:
   languageCode: ko
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: ./content/ko
-  params: {}
+  title: 전하린 CV
+  params:
+    description: 전하린의 CV 웹사이트입니다.
+  menu:
+    main:
+      - name: 소개
+        url: /
+        weight: 10
+      - name: 논문
+        url: /#papers
+        weight: 11
+      - name: 강연
+        url: /#talks
+        weight: 12
+      - name: 뉴스
+        url: /#news
+        weight: 13
+      - name: 경력
+        url: experience/
+        weight: 20
+      - name: 프로젝트
+        url: projects/
+        weight: 30
+      - name: 교육
+        url: teaching/
+        weight: 40
+
 
 # Uncomment the lines below to configure your website in a second language.
 en:
   languageCode: en-us
   contentDir: ./content/en
-  
+  title: Jeon Halin CV
   params:
-    title: About Jeon Halin
     description: This is a CV Website About Jeon Halin
   menu:
     main:
