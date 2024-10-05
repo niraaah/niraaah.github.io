@@ -2,49 +2,57 @@
 #   Create a section for each of your site's languages.
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
-# Default language
-ko:
-  languageCode: ko
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  contentDir: ./content/ko
-
-# Uncomment the lines below to configure your website in a second language.
 en:
   languageCode: en-us
-  contentDir: ./content/en
-  
+  contentDir: content/en
+  title: Jeon Halin's CV
   params:
-    title: About Jeon Halin
-    description: This is a CV Website About Jeon Halin
-  menu:
+    description: Jeon Halin's CV site.
+  menus:
     main:
-      - name: Bio
+      - name: Introduction
         url: /
         weight: 10
-      - name: Papers
-        url: /#papers
-        weight: 11
-      - name: Talks
-        url: /#talks
-        weight: 12
-      - name: News
-        url: /#news
-        weight: 13
-      - name: Experience
-        url: experience/
-        weight: 20
       - name: Projects
-        url: projects/
+        url: /#projects
+        weight: 11
+      - name: Skills
+        url: /#skills
+        weight: 12
+      - name: Other History
+        url: /#others
+        weight: 13
+      - name: Posts
+        url: /#posts
+        weight: 20
+      - name: Hobbies
+        url: /#hobbies
         weight: 30
-      - name: Teaching
-        url: teaching/
-        weight: 40
 
-
-languages:
-  ko:
-    languageName: 한국어
-    weight: 1
-  en:
-    languageName: English
-    weight: 2
+# Korean language configuration
+ko:
+  languageCode: ko
+  contentDir: content/ko
+  title: 전하린 CV
+  params:
+    description: 전하린의 이력서 사이트입니다.
+  menus:
+    main:
+      - name: 소개
+        url: /
+        weight: 10
+      - name: 프로젝트
+        url: /#projects
+        weight: 11
+      - name: 스킬
+        url: /#skills
+        weight: 12
+      - name: 기타 이력
+        url: /#others
+        weight: 13
+      - name: 포스트
+        url: /#posts
+        weight: 20
+      - name: 취미
+        url: /#hobbies
+        weight: 30

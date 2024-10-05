@@ -7,21 +7,19 @@ main:
   - name: 소개
     url: /
     weight: 10
-  - name: 논문
-    url: /#papers
-    weight: 11
-  - name: 강연
-    url: /#talks
-    weight: 12
-  - name: 뉴스
-    url: /#news
-    weight: 13
-  - name: 경력
-    url: experience/
-    weight: 20
   - name: 프로젝트
-    url: projects/
+    url: /#projects
+    weight: 11
+  - name: 스킬
+    url: /#sills
+    weight: 12
+  - name: 기타 이력
+    url: /#others
+    weight: 13
+  - name: 포스트
+    url: /#posts
+    weight: 20
+  - name: 취미
+    url: /#hobbies
     weight: 30
-  - name: 교육
-    url: teaching/
-    weight: 40
+  

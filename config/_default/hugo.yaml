@@ -11,11 +11,13 @@ baseURL: https://niraaah.github.io/
 ############################
 ## LANGUAGE
 ############################
-
+# Default language set to Korean
 defaultContentLanguage: ko
 hasCJKLanguage: true
+# Subdirectory for language-specific content
 defaultContentLanguageInSubdir: true
 removePathAccents: true
+
 
 ############################
 ## ADVANCED
