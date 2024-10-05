@@ -32,14 +32,15 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'About me'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
         
-        Please reach out to collaborate 😃
+        A developer who always aims for happy coding.
+        Beyond simple codes, we want to create a service that tells a story.
+        Each code line values the message and the meaning behind it.
+        Beyond just web development, working harder to meet something that can change the world,
+        And I'm trying to run further.
     design:
       columns: '1'
   - block: collection

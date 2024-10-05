@@ -32,14 +32,14 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '저에 대해 소개합니다.'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        언제나 행복한 코딩을 지향하는 개발자 입니다.
+        단순한 코드를 넘어서, 이야기를 담은 서비스를 만들고자 합니다.
+        코드 라인 하나하나가 전하는 메세지와 그 뒤에 숨은 의미를 중시합니다.
+        단순한 웹 개발을 넘어서 세상을 바꿀 수 있는 무언가를 만나기 위해 더 열심히,
+        그리고 더 멀리 달리기 위해 노력하고 있습니다.
     design:
       columns: '1'
   - block: collection
