@@ -40,10 +40,3 @@ en:
         weight: 40
 
 
-languages:
-  ko:
-    languageName: 한국어
-    weight: 1
-  en:
-    languageName: English
-    weight: 2
