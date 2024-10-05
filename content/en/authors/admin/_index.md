@@ -168,6 +168,6 @@ awards:
       .
 ---
 
-## About Me
+## Hello.
 
 Applicant with extroverted personality and excellent communication skills applying for entry level position in programming. Aiming to utilize coding and leadership skills to manage challenging projects at MIT Media LAB and contribute to productive work environment.
