@@ -3,20 +3,15 @@
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
 
+
+languages:
   ko:
     languageName: 한국어
     languageCode: ko
     contentDir: ./content/ko
     weight: 1
     menu:
-      main:
-        - identifier: ko-intro
-        - identifier: ko-papers
-        - identifier: ko-talks
-        - identifier: ko-news
-        - identifier: ko-experience
-        - identifier: ko-projects
-        - identifier: ko-teaching
+      main: ["ko-intro", "ko-papers", "ko-talks", "ko-news", "ko-experience", "ko-projects", "ko-teaching"]
 
   en:
     languageName: English
@@ -24,11 +19,4 @@
     contentDir: ./content/en
     weight: 2
     menu:
-      main:
-        - identifier: en-bio
-        - identifier: en-papers
-        - identifier: en-talks
-        - identifier: en-news
-        - identifier: en-experience
-        - identifier: en-projects
-        - identifier: en-teaching
+      main: ["en-bio", "en-papers", "en-talks", "en-news", "en-experience", "en-projects", "en-teaching"]
