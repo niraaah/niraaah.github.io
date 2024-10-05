@@ -84,7 +84,7 @@ skills:
       - name: Data Science
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: c
       - name: SQL
         description: ''
         percent: 40

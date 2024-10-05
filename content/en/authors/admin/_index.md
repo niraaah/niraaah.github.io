@@ -80,10 +80,10 @@ skills:
         description: ''
         percent: 80
         icon: python
-      - name: Data Science
+      - name: C/C++
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: c
       - name: SQL
         description: ''
         percent: 40
