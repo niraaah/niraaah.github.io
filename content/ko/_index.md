@@ -76,7 +76,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: 최근 뉴스
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
