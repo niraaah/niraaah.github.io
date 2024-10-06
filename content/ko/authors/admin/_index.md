@@ -78,7 +78,7 @@ skills:
         icon: python
       - name: C/C++
         description: ''
-        percent: 100
+        percent: 80
         icon: computer
       - name: SQL
         description: ''
@@ -114,31 +114,28 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Awarded 2nd prize in the 2nd Service Software Development Contest For Generative A.I.
+    #url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date: '2024-06'
+    awarder: Jeonbuk National University SW Centered University Business Group, Jeonju, Republic of Korea
     summary: |
-      .
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      - Engaged in developing application regarding psychotherapy with gen AI.
+
+  - title: Awarded 2nd prize in the 1st Startup Idea Contest
+    #url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    date: '2023-12'
+    awarder: Jeonbuk National University SW Centered University Business Group, Jeonju, Republic of Korea
+    #icon: edx
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      - Contributed in managing project relate to launch second-hand resale platform.
+  - title: Awarded 3rd prize in the 4th OASIS Hackathon
+    url: : https://csai.jbnu.ac.kr/csai/29105/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGY3NhaSUyRjQ5MjclMkYzMTI0ODklMkZhcnRjbFZpZXcuZG8lM0ZwYWdlJTNEMiUyNnNyY2hDb2x1bW4lM0QlMjZzcmNoV3JkJTNEJTI2YmJzQ2xTZXElM0QlMjZiYnNPcGVuV3JkU2VxJTNEJTI2cmdzQmduZGVTdHIlM0QlMjZyZ3NFbmRkZVN0ciUzRCUyNmlzVmlld01pbmUlM0RmYWxzZSUyNnBhc3N3b3JkJTNEJTI2
+    #certificate_url: https://www.datacamp.com
+    date: '2023-08'
+    awarder: Gwangju Information & Content Agency, Gwangju, Republic of Korea
+    #icon: datacamp
     summary: |
-      .
+      -Involved in leading teams to develop innovative ideas on improving local tourism industry.
 ---
 
 ## 안녕하세요, 반갑습니다.

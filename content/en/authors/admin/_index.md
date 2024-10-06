@@ -77,7 +77,7 @@ skills:
         icon: python
       - name: C/C++
         description: ''
-        percent: 100
+        percent: 80
         icon: computer
       - name: SQL
         description: ''
