@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: 주요 뉴스
 cms_exclude: true
 
 # View.

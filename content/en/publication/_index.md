@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Major News
 cms_exclude: true
 
 # View.
