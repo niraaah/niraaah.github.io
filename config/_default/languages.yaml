@@ -30,9 +30,9 @@ ko:
       - name: 프로젝트
         url: projects/
         weight: 30
-      - name: 교육
-        url: teaching/
-        weight: 40
+#      - name: 교육
+#        url: teaching/
+#        weight: 40
 
 
 # Uncomment the lines below to configure your website in a second language.
@@ -62,9 +62,9 @@ en:
       - name: Projects
         url: projects/
         weight: 30
-      - name: Teaching
-        url: teaching/
-        weight: 40
+#      - name: Teaching
+#        url: teaching/
+#        weight: 40
 
 
 languages:
