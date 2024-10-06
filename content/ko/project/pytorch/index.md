@@ -1,13 +1,11 @@
 ---
-title: PyTorch
-date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+title: 이메일 서비스
+date: 2023-03-01
+external_link: https://github.com/niraaah/EmailService
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - C/C++
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+C/C++를 이용하여 처음 진행한 프로젝트.
 
 <!--more-->
