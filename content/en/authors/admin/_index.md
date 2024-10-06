@@ -107,6 +107,8 @@ languages:
     percent: 70
   - name: Japanese
     percent: 25
+  - name: French
+    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
