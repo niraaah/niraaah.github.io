@@ -67,6 +67,10 @@ education:
     date_end: 2023-03-01
 
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.8354345093663!2d126.570667!3d33.450701!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x0000000000000000!2z44OT44Or44O844K344O844OG44Kk44Oz44Kw44O844Kk!5e0!3m2!1sen!2skr!4v1632846387291!5m2!1sen!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -138,4 +142,3 @@ awards:
 
 외향적인 성격과 뛰어난 커뮤니케이션 능력을 갖춘 지원자가 프로그래밍 입문자 직책에 지원합니다. 코딩 및 리더십 기술을 활용하여 MIT 미디어 랩에서 어려운 프로젝트를 관리하고 생산적인 업무 환경에 기여하는 것을 목표로 합니다.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.8354345093663!2d126.570667!3d33.450701!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x0000000000000000!2z44OT44Or44O844K344O844OG44Kk44Oz44Kw44O844Kk!5e0!3m2!1sen!2skr!4v1632846387291!5m2!1sen!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
