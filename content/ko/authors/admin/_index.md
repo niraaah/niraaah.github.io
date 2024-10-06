@@ -116,14 +116,14 @@ languages:
 awards:
   - title: Awarded 2nd prize in the 2nd Service Software Development Contest For Generative A.I.
     #url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2024-06'
+    date: '2024-06-01'
     awarder: Jeonbuk National University SW Centered University Business Group, Jeonju, Republic of Korea
     summary: |
       - Engaged in developing application regarding psychotherapy with gen AI.
 
   - title: Awarded 2nd prize in the 1st Startup Idea Contest
     #url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-12'
+    date: '2023-12-01'
     awarder: Jeonbuk National University SW Centered University Business Group, Jeonju, Republic of Korea
     #icon: edx
     summary: |
@@ -131,7 +131,7 @@ awards:
   - title: Awarded 3rd prize in the 4th OASIS Hackathon
     url: : https://csai.jbnu.ac.kr/csai/29105/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGY3NhaSUyRjQ5MjclMkYzMTI0ODklMkZhcnRjbFZpZXcuZG8lM0ZwYWdlJTNEMiUyNnNyY2hDb2x1bW4lM0QlMjZzcmNoV3JkJTNEJTI2YmJzQ2xTZXElM0QlMjZiYnNPcGVuV3JkU2VxJTNEJTI2cmdzQmduZGVTdHIlM0QlMjZyZ3NFbmRkZVN0ciUzRCUyNmlzVmlld01pbmUlM0RmYWxzZSUyNnBhc3N3b3JkJTNEJTI2
     #certificate_url: https://www.datacamp.com
-    date: '2023-08'
+    date: '2023-08-01'
     awarder: Gwangju Information & Content Agency, Gwangju, Republic of Korea
     #icon: datacamp
     summary: |
