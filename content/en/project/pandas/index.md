@@ -8,6 +8,6 @@ tags:
   - Css
 ---
 
-- learning about fundamental knowledge using html, css, js, and express.
+- learning about fundamental knowledge about structure of web using html, css, js, and express.
 
 <!--more-->
