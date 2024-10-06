@@ -6,22 +6,22 @@
 main:
   - name: 소개
     url: /
-    weight: 10
+    weight: 100
 #  - name: 논문
 #    url: /#papers
 #    weight: 11
   - name: 강연
     url: /#talks
-    weight: 12
+    weight: 120
   - name: 뉴스
     url: /#news
-    weight: 13
+    weight: 130
   - name: 경력
     url: experience/
-    weight: 20
+    weight: 200
   - name: 프로젝트
     url: projects/
-    weight: 30
+    weight: 300
 #  - name: 교육
 #    url: teaching/
 #    weight: 40

@@ -14,22 +14,31 @@ ko:
     main:
       - name: 소개
         url: /
-        weight: 10
+        weight: 100
 #      - name: 논문
 #        url: /#papers
 #        weight: 11
       - name: 강연
         url: /#talks
-        weight: 12
+        weight: 120
       - name: 뉴스
         url: /#news
-        weight: 13
+        weight: 130
       - name: 경력
         url: experience/
-        weight: 20
+        weight: 200
+      - name: 중학교
+        url: middle-school/
+        weight: 210
+      - name: 고등학교
+        url: high-school/
+        weight: 220
+      - name: 대학교
+        url: university/
+        weight: 230
       - name: 프로젝트
         url: projects/
-        weight: 30
+        weight: 300
 #      - name: 교육
 #        url: teaching/
 #        weight: 40
@@ -46,22 +55,31 @@ en:
     main:
       - name: Bio
         url: /
-        weight: 10
+        weight: 100
 #      - name: Papers
 #        url: /#papers
 #        weight: 11
       - name: Talks
         url: /#talks
-        weight: 12
+        weight: 120
       - name: News
         url: /#news
-        weight: 13
+        weight: 130
       - name: Experience
         url: experience/
-        weight: 20
+        weight: 200
+      - name: Middle School
+        url: middle-school/
+        weight: 210
+      - name: High School
+        url: high-school/
+        weight: 220
+      - name: University 
+        url: university/
+        weight: 230
       - name: Projects
         url: projects/
-        weight: 30
+        weight: 300
 #      - name: Teaching
 #        url: teaching/
 #        weight: 40
