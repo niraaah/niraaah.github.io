@@ -1,4 +1,3 @@
-
 ---
 title: ✅ Founding and Leading Jarvis Web Development Club
 summary: Established and served as the inaugural president of the Jarvis web development club at Jeonbuk National University.
