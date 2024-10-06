@@ -106,7 +106,7 @@ languages:
   - name: English
     percent: 70
   - name: Japanese
-    percent: 25
+    percent: 40
   - name: French
     percent: 25
 
@@ -115,27 +115,29 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: '제 2회 생성형 AI를 위한 서비스 소프트웨어 개발 공모전, 2등 수상'
+  - title: Awarded 2nd prize in the 2nd Service Software Development Contest For Generative A.I.
     #url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2024-06-01'
-    awarder: '전북대학교 소프트웨어중심대학 사업단'
+    awarder: Jeonbuk National University SW Centered University Business Group, Jeonju, Republic of Korea
     summary: |
-      - AI를 이용한 심리 치료에 관한 애플리케이션 개발에 참여
-  - title: 'SW 창업 아이디어 경진대회, 2등 수상'
+      - Engaged in developing application regarding psychotherapy with gen AI.
+
+  - title: Awarded 2nd prize in the 1st Startup Idea Contest
     #url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-12-01'
-    awarder: '전북대학교 소프트웨어중심대학 사업단'
+    awarder: Jeonbuk National University SW Centered University Business Group, Jeonju, Republic of Korea
     #icon: edx
     summary: |
-      - 중고 재판매 플랫폼 출시와 관련된 프로젝트 관리에 기여
-  - title: '4회 오아시스 해커톤, 3등 수상'
-    url: : https://csai.jbnu.ac.kr/csai/29105/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGY3NhaSUyRjQ5MjclMkYzMTI0ODklMkZhcnRjbFZpZXcuZG8lM0ZwYWdlJTNEMiUyNnNyY2hDb2x1bW4lM0QlMjZzcmNoV3JkJTNEJTI2YmJzQ2xTZXElM0QlMjZiYnNPcGVuV3JkU2VxJTNEJTI2cmdzQmduZGVTdHIlM0QlMjZyZ3NFbmRkZVN0ciUzRCUyNmlzVmlld01pbmUlM0RmYWxzZSUyNnBhc3N3b3JkJTNEJTI2
+      - Contributed in managing project relate to launch second-hand resale platform.
+  - title: Awarded 3rd prize in the 4th OASIS Hackathon
+    url: https://csai.jbnu.ac.kr/csai/29105/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGY3NhaSUyRjQ5MjclMkYzMTI0ODklMkZhcnRjbFZpZXcuZG8lM0ZwYWdlJTNEMiUyNnNyY2hDb2x1bW4lM0QlMjZzcmNoV3JkJTNEJTI2YmJzQ2xTZXElM0QlMjZiYnNPcGVuV3JkU2VxJTNEJTI2cmdzQmduZGVTdHIlM0QlMjZyZ3NFbmRkZVN0ciUzRCUyNmlzVmlld01pbmUlM0RmYWxzZSUyNnBhc3N3b3JkJTNEJTI2
     #certificate_url: https://www.datacamp.com
     date: '2023-08-01'
-    awarder: '광주 정보문화산업진흥원'
+    awarder: Gwangju Information & Content Agency, Gwangju, Republic of Korea
     #icon: datacamp
     summary: |
-      - 지역 관광 산업 개선에 대한 혁신적인 아이디어를 개발하기 위한 선도적인 팀에 참여
+      -Involved in leading teams to develop innovative ideas on improving local tourism industry.
+
 ---
 
 ## Hello.
