@@ -1,87 +1,81 @@
 ---
-title: 'An example conference paper'
+title: '전공 학회 동아리 ‘JAVICE’ 설립'
 
 # Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Robert Ford
+  - 관리자
+  - 전하린
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - '설립자 및 회장'
 
-date: '2013-07-01T00:00:00Z'
+date: '2023-08-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-08-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['misc']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: 'JAVICE - 풀스택을 넘어서'
+publication_short: 'JAVICE'
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: |
+  자비스(JAVICE)는 "Over the Full Stack"이라는 슬로건 아래 창업의 가치를 중시하는 웹 개발 동아리입니다. 단순한 코드를 넘어서, 이야기를 담은 서비스를 만들고자 합니다. 코드 라인 하나하나가 전하는 메세지와 그 뒤에 숨은 의미를 중시합니다. 혁신적인 아이디어와 뛰어난 협업 능력으로 미래를 내다보며, 단순한 웹 개발을 넘어서 세상을 바꿀 수 있는 무언가를 만들고자 합니다.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: '혁신과 스토리텔링을 중시하며, 창업 정신에 기반한 웹 개발 동아리로, 단순한 코드 작성을 넘어서려고 합니다.'
 
 tags:
-  - Large Language Models
+  - 웹개발
+  - 창업
+  - 풀스택 개발
 
 # Display this page in the Featured widget?
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+  - name: 동아리 홈페이지
+    url: https://jbnu-javice.github.io/
+
+# Club details
+location: '공과대학 7호관 지하 7009-2호, 전북대학교'
+contact_email: 'javice.contact@gmail.com'
+
+# Technologies used by JAVICE
+technologies:
+  - Frontend: React.js
+  - Backend: Node.js
 
 url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: ''
+url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ''
   preview_only: false
 
 # Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
 projects:
-  - example
+  - javice-website
 
 # Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+slides: javice-slides
 ---
 
 {{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+JAVICE는 풀스택을 넘어서는 것을 목표로 합니다. 우리는 혁신적인 아이디어와 협력을 통해 코드 한 줄 한 줄이 이야기를 전하는 의미 있는 서비스를 우선시합니다. 
 {{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
