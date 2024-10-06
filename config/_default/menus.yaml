@@ -7,9 +7,9 @@ main:
   - name: 소개
     url: /
     weight: 10
-  - name: 논문
-    url: /#papers
-    weight: 11
+#  - name: 논문
+#    url: /#papers
+#    weight: 11
   - name: 강연
     url: /#talks
     weight: 12
