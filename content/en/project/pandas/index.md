@@ -1,13 +1,13 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: express
+date: 2023-10-01
+external_link: https://github.com/niraaah/ForestCommunity
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Js
+  - Html
+  - Css
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+- learning about fundamental knowledge using html, css, js, and express.
 
 <!--more-->
