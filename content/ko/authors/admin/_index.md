@@ -127,7 +127,7 @@ awards:
     summary: |
       - 중고 재판매 플랫폼 출시와 관련된 프로젝트 관리에 기여
   - title: '4회 오아시스 해커톤, 3등 수상'
-    url: : https://csai.jbnu.ac.kr/csai/29105/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGY3NhaSUyRjQ5MjclMkYzMTI0ODklMkZhcnRjbFZpZXcuZG8lM0ZwYWdlJTNEMiUyNnNyY2hDb2x1bW4lM0QlMjZzcmNoV3JkJTNEJTI2YmJzQ2xTZXElM0QlMjZiYnNPcGVuV3JkU2VxJTNEJTI2cmdzQmduZGVTdHIlM0QlMjZyZ3NFbmRkZVN0ciUzRCUyNmlzVmlld01pbmUlM0RmYWxzZSUyNnBhc3N3b3JkJTNEJTI2
+    url: https://csai.jbnu.ac.kr/csai/29105/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGY3NhaSUyRjQ5MjclMkYzMTI0ODklMkZhcnRjbFZpZXcuZG8lM0ZwYWdlJTNEMiUyNnNyY2hDb2x1bW4lM0QlMjZzcmNoV3JkJTNEJTI2YmJzQ2xTZXElM0QlMjZiYnNPcGVuV3JkU2VxJTNEJTI2cmdzQmduZGVTdHIlM0QlMjZyZ3NFbmRkZVN0ciUzRCUyNmlzVmlld01pbmUlM0RmYWxzZSUyNnBhc3N3b3JkJTNEJTI2
     date: '2023-08-01'
     awarder: '광주 정보문화산업진흥원'
     summary: |
