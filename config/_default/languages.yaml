@@ -27,15 +27,6 @@ ko:
       - name: 경력
         url: experience/
         weight: 200
-      - name: 중학교
-        url: middle-school/
-        weight: 210
-      - name: 고등학교
-        url: high-school/
-        weight: 220
-      - name: 대학교
-        url: university/
-        weight: 230
       - name: 프로젝트
         url: projects/
         weight: 300
@@ -68,15 +59,6 @@ en:
       - name: Experience
         url: experience/
         weight: 200
-      - name: Middle School
-        url: middle-school/
-        weight: 210
-      - name: High School
-        url: high-school/
-        weight: 220
-      - name: University 
-        url: university/
-        weight: 230
       - name: Projects
         url: projects/
         weight: 300
