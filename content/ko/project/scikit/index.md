@@ -1,13 +1,11 @@
 ---
-title: scikit-learn
-date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+title: 자바 퀴즈게임
+date: 2023-03-01
+external_link: https://github.com/niraaah/JavaQuizProject
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Java
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+- Java를 이용한 넌센스 퀴즈 제작 프로젝트
 
 <!--more-->
