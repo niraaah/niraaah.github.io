@@ -45,7 +45,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: 주요 뉴스
       filters:
         folders:
           - publication

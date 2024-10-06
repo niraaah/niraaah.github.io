@@ -46,7 +46,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Main News
       filters:
         folders:
           - publication
