@@ -1,75 +1,44 @@
 ---
-title: Example Talk
+title: The 4th Oasis Hackathon
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: GICON and Oasis Hackathon
+event_url: 'https://www.etnews.com/20230904000072'
 
-location: Hugo Blox Builder HQ
+location: Gwangju Information & Culture Industry Promotion Agency
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 000 Street Name
+  city: Gwangju
+  region: ''
+  postcode: ''
+  country: South Korea
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Students from the Department of Computer Science won awards at the 4th Oasis Hackathon.
+abstract: 'The Gwangju Information and Culture Industry Promotion Agency (GICON) and the Oasis Hackathon University Association held the "Oasis Hackathon" competition over two days, August 30-31. The event focused on developing services to solve issues in the Honam region related to education, safety, society, environment, and tourism. A team consisting of computer science students (Kim Minjun, Ahn Taeyun, Jeon Harin) swept the awards, winning the grand prize, excellence award, and merit award.'
 
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2023-08-30T09:00:00Z'
+date_end: '2023-08-31T18:00:00Z'
 all_day: false
 
-# Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-09-07T00:00:00Z'
 
 authors:
   - admin
 
-tags: []
+tags: ['Hackathon', 'Computer Science', 'Awards']
 
-# Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'The 4th Oasis Hackathon organized by the Gwangju Information & Culture Industry Promotion Agency'
   focal_point: Right
 
-#links:
-#  - icon: twitter
-#    icon_pack: fab
-#    name: Follow
-#    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
+url_code: ''
 url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+url_slides: ''
+url_video: ''
 
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides: ""
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects:
-  - example
+  - oasis-hackathon
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
